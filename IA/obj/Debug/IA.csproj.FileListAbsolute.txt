@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\IA\IA\bin\Debug\IA.exe.config
+C:\Users\danie\source\repos\IA\IA\bin\Debug\IA.exe
+C:\Users\danie\source\repos\IA\IA\bin\Debug\IA.pdb
+C:\Users\danie\source\repos\IA\IA\obj\Debug\IA.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\IA\IA\obj\Debug\IA.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\IA\IA\obj\Debug\IA.exe
+C:\Users\danie\source\repos\IA\IA\obj\Debug\IA.pdb
+C:\Users\danie\source\repos\IA\IA\bin\Debug\Microsoft.Speech.dll
+C:\Users\danie\Desktop\IA\IA\bin\Debug\IA.exe.config
+C:\Users\danie\Desktop\IA\IA\bin\Debug\IA.exe
+C:\Users\danie\Desktop\IA\IA\bin\Debug\IA.pdb
+C:\Users\danie\Desktop\IA\IA\obj\Debug\IA.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\IA\IA\obj\Debug\IA.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\IA\IA\obj\Debug\IA.exe
+C:\Users\danie\Desktop\IA\IA\obj\Debug\IA.pdb
+C:\Users\danie\Desktop\IA\IA\obj\Debug\IA.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\Desktop\IA\IA\obj\Debug\IA.csproj.CopyComplete
